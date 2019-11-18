@@ -1,0 +1,1 @@
+Registration form will b here and it will work same as signup form for us
